@@ -1,0 +1,6 @@
+# Keep the Unix launcher runnable on GitHub's Linux runners even if the repo is edited on Windows
+gradlew text eol=lf
+*.bat text eol=crlf
+*.jar binary
+*.png binary
+*.ogg binary

@@ -1,0 +1,30 @@
+{
+  "entity.otter.chirp": {
+    "subtitle": "subtitles.otterpebble.otter.chirp",
+    "sounds": [
+      "otterpebble:entity/otter/chirp1",
+      "otterpebble:entity/otter/chirp2",
+      "otterpebble:entity/otter/chirp3"
+    ]
+  },
+  "entity.otter.ambient": {
+    "subtitle": "subtitles.otterpebble.otter.ambient",
+    "sounds": [
+      "otterpebble:entity/otter/ambient1",
+      "otterpebble:entity/otter/ambient2"
+    ]
+  },
+  "entity.otter.hurt": {
+    "subtitle": "subtitles.otterpebble.otter.hurt",
+    "sounds": [
+      "otterpebble:entity/otter/hurt1",
+      "otterpebble:entity/otter/hurt2"
+    ]
+  },
+  "entity.otter.death": {
+    "subtitle": "subtitles.otterpebble.otter.death",
+    "sounds": [
+      "otterpebble:entity/otter/death1"
+    ]
+  }
+}

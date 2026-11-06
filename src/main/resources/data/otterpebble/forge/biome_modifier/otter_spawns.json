@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:river"
+  ],
+  "spawners": {
+    "type": "otterpebble:otter",
+    "weight": 8,
+    "minCount": 2,
+    "maxCount": 3
+  }
+}

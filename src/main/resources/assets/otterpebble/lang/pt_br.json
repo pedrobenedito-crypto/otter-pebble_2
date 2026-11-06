@@ -1,0 +1,15 @@
+{
+  "entity.otterpebble.otter": "Lontra",
+  "item.otterpebble.otter_spawn_egg": "Ovo Gerador de Lontra",
+  "message.otterpebble.bonded": "%s escolheu você. Vocês criaram um vínculo.",
+  "message.otterpebble.too_soon": "Cedo demais. Dê espaço ao filhote e fique calmo. O peixe continua com você.",
+  "message.otterpebble.interrupted": "Interrompido. O peixe continua com você.",
+  "message.otterpebble.busy": "O filhote está prestando atenção em outra pessoa.",
+  "message.otterpebble.order.follow": "%s: Seguir",
+  "message.otterpebble.order.wait": "%s: Esperar",
+  "message.otterpebble.delivered": "%s trouxe de volta: %s.",
+  "subtitles.otterpebble.otter.chirp": "Lontra chilreia",
+  "subtitles.otterpebble.otter.ambient": "Lontra guincha",
+  "subtitles.otterpebble.otter.hurt": "Lontra se machuca",
+  "subtitles.otterpebble.otter.death": "Lontra morre"
+}

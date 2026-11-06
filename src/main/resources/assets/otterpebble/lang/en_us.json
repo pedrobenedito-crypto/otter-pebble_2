@@ -1,0 +1,15 @@
+{
+  "entity.otterpebble.otter": "Otter",
+  "item.otterpebble.otter_spawn_egg": "Otter Spawn Egg",
+  "message.otterpebble.bonded": "%s chose you. You are bonded.",
+  "message.otterpebble.too_soon": "Too soon. Give the pup space and stay calm. You keep the fish.",
+  "message.otterpebble.interrupted": "Interrupted. You keep the fish.",
+  "message.otterpebble.busy": "The pup is paying attention to someone else.",
+  "message.otterpebble.order.follow": "%s: Follow",
+  "message.otterpebble.order.wait": "%s: Wait",
+  "message.otterpebble.delivered": "%s brought back your %s.",
+  "subtitles.otterpebble.otter.chirp": "Otter chirps",
+  "subtitles.otterpebble.otter.ambient": "Otter squeaks",
+  "subtitles.otterpebble.otter.hurt": "Otter hurts",
+  "subtitles.otterpebble.otter.death": "Otter dies"
+}
